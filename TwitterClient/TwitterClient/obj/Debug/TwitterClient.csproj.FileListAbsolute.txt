@@ -1,0 +1,11 @@
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\TwitterClient.exe.config
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\TwitterClient.exe
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\TwitterClient.pdb
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.csprojResolveAssemblyReference.cache
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.twitterClientForm.resources
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.Properties.Resources.resources
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.csproj.GenerateResource.Cache
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.exe
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.pdb
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.xml
