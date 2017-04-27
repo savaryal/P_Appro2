@@ -9,3 +9,14 @@ C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.ex
 C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\obj\Debug\TwitterClient.pdb
 C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.dll
 C:\Users\savaryal\Desktop\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.xml
+H:\P_Appro2\TwitterClient\TwitterClient\bin\Debug\TwitterClient.exe.config
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.exe
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.pdb
+H:\P_Appro2\TwitterClient\TwitterClient\bin\Debug\TwitterClient.exe
+H:\P_Appro2\TwitterClient\TwitterClient\bin\Debug\TwitterClient.pdb
+H:\P_Appro2\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.dll
+H:\P_Appro2\TwitterClient\TwitterClient\bin\Debug\Newtonsoft.Json.xml
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.csprojResolveAssemblyReference.cache
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.twitterClientForm.resources
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.Properties.Resources.resources
+H:\P_Appro2\TwitterClient\TwitterClient\obj\Debug\TwitterClient.csproj.GenerateResource.Cache
